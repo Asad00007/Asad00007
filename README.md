@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I am Asad Ullah.
+Hey there! I am Asad Ullah.<br>
 I’m currently working on: A daily utilities project 🛠️<br>I’m looking to collaborate on: Full-stack projects 👨‍💻👩‍💻<br>I’m currently learning: Angular 📚<br>Ask me about: Integrating Angular with front-end frameworks like Bootstrap and Tailwind 🖥️<br>Fun fact: I can turn a complex problem into a neat, user-friendly interface faster than I can finish my coffee! ☕
 
 
